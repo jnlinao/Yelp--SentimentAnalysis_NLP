@@ -1,7 +1,3 @@
-
-# Hi James, 
-To provide an update to the hardware situation at TEM, Rudy had just sent a couple of Keyence BT-A700GA Scanners which had just arrived today. To supplement the configuration and support of getting these guys set at various plants including TEM, I am attaching an SOP for your reference. We had originally supported the successful pilot with these scanners with Ricky at PHI. The documentation covers installation and set-up of the scanner OOB with the appropriate software +  user/admin navigation. 
-
-Also attached are the Velocity Console files required for Scanner software set up. Details are discussed in the SOP. 
-
-Please feel free to reach out for any questions or concerns. 
+# Sentiment Analysis Project 
+## Jacob Linao
+Sentiment analysis is a vital technique in which we will be classifying the review text as either positive or negative by incorporating aspects of Natural Language Processing (NLP) and machine learning. Specifically, we will conduct logistic regression and determine the sentiment based upon the evaluation of a restaurant review. From the Yelp review data, consumers discuss their experiences and opinions through their reviews, thus natural language processing and sentiment analysis can be utilized. Ultimately, a review is what the opinion of the user is about the business in his or her own words and not a rating or mathematical predictive task, thus, it is essential to be able to predict what the user feels about a business from the review text (Channapragada & Shivaswamy, 2015, p. 1) [1]. In this project, we conduct data preprocessing, topic modeling, exploratory descriptive analytics, modeling, results and conclusions. Overall, sentiment analysis can help understand consumers as a whole; detecting business’ day-to-day successes and faults, and remedying them over time. 
