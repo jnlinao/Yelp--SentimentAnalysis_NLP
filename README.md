@@ -24,9 +24,9 @@ Consumers discuss their experiences and opinions through their Yelp reviews, mak
  
 ## Project Findings :mag_right:
 ### Latent Semantic Analysis (LSA)
-We use TF-IDF and bi-grams to get the frequency of two terms with our max features at 12,500. Next, we incorporate SVD by decomposing the matrix into three constituent matrices setting the number of components to 5, iterating through it 100 times. In [Figure 1](#Figure-2) can visualize the singular values and their relative importance of each component and the amount of variation captured from each concept.
+We use TF-IDF and bi-grams to get the frequency of two terms with our max features at 12,500. Next, we incorporate SVD by decomposing the matrix into three constituent matrices setting the number of components to 5, iterating through it 100 times. In [Figure 1](#Figure-1) can visualize the singular values and their relative importance of each component and the amount of variation captured from each concept.
 
 ## Project Visualizations
-
-### Figure 2
+[Figure 1](#Figure-1)
+### Figure 1
 
