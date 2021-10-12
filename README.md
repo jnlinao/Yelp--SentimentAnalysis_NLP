@@ -1,4 +1,4 @@
-# Yelp Reviews Sentiment Analysis                
+# Yelp Reviews Sentiment Analysis :stew:            
 <img src="/images/logo.png" width="150" height="100">
 
 ### Use Case: Utilizing consumer reviews to develop data-driven insights for restaurants on how to improve their business during Covid-19
