@@ -15,7 +15,10 @@ Consumers discuss their experiences and opinions through their Yelp reviews, mak
 1. How can we get the data we need
   * Web-scraped data from Yelp website using BeautifulSoup and Selenium to retrieve 10,000+ reviews
 2. How can we model text data? 
-*
+* Employ text preprocessing such as vectorization, tokenization, stopwords filtering, lemmatization, Count Vectorizer, and TFIDF. Evaluation for number of features and parameters (min/max df,n-grams)
+3. What machine learning model will best fit our use case: using textual features to predict customer sentiment?
+* Evaluated model performance for logistic regression and conducted grid-search for parameter optimization.
+
  
 ## Project Findings :mag_right:
 
