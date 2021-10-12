@@ -1,5 +1,7 @@
-# Starbucks Customer Analysis :coffee:
-### Use Case: Utilizing consumer survey data to assess market situation of Starbucks perception by end-users. 
+# Yelp Reviews Sentiment Analysis                
+<img src="/images/logo.png" width="150" height="100">
+
+### Use Case: Utilizing consumer reviews to develop data-driven insights for restaurants on how to improve their business during Covid-19
 
 ## Business Problem :thought_balloon:
 
