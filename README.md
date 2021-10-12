@@ -12,8 +12,10 @@ Consumers discuss their experiences and opinions through their Yelp reviews, mak
 
 
 ## Data Challenges and Approach :mount_fuji:
-1. What variables can be taken out and what should stay? 
-  * Conducted backward and forward selection for variable selection, comparing R^2 for each to decide if variables have an affect on prediction ability.
+1. How can we get the data we need
+  * Web-scraped data from Yelp website using BeautifulSoup and Selenium to retrieve 10,000+ reviews
+2. How can we model text data? 
+*
  
 ## Project Findings :mag_right:
 
