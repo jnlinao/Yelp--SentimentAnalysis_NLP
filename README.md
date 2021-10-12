@@ -43,14 +43,20 @@ Throughout our analysis, we found that our sentiment words were more positive th
 ## Project Visualizations
 
 ### Figure 1
+<img src="/images/lsa.png" width="500" height="400">
 
 ### Figure 2
+<img src="/images/2.png" width="1000" height="200">
 
 ### Figure 3
+<img src="/images/3.png" width="1000" height="200">
 
 ### Figure 4
+<img src="/images/f4.png" width="500" height="400">
 
 ### Table 1
+<img src="/images/t1.png" width="500" height="400">
 
 ### Table 2
+<img src="/images/t2.png" width="500" height="400">
 
