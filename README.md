@@ -19,7 +19,7 @@ Consumers discuss their experiences and opinions through their Yelp reviews, mak
 3. What machine learning model will best fit our use case: using textual features to predict customer sentiment?
 * **Evaluated model performance for logistic regression and conducted grid-search for parameter optimization.**
 4. What data insights can we present to stakeholders?
-* **Conduct topic modeling to identify important topic focuses of business and develop sentiment prediction model to assign positive/negative labels and segment reviews to augment found topics.**
+* **(1) Conduct topic modeling to identify important topic focuses of business and (2) develop sentiment prediction model to assign positive/negative labels to reviews
 
  
 ## Project Findings :mag_right:
